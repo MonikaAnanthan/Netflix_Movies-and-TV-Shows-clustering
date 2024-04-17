@@ -7,7 +7,6 @@ This project analyzes and clusters Netflix movies and TV shows based on their at
 # Problem Statement
 Netflix, a leading global streaming platform, offers its vast user base a wide variety of movies and TV shows. However, with the increasing volume of content available, it has become challenging for users to navigate and discover content that aligns with their preferences. To address this challenge, we propose a project to perform clustering analysis on Netflix movies and TV shows, aiming to categorize and group similar content together.
 
-Problem Description:
 
 The problem revolves around the following issues:
 
@@ -22,7 +21,7 @@ Overall, exploring this dataset provides a unique opportunity to gain valuable i
 # Objective
 The main objective of this project is to use machine learning techniques to cluster Netflix movies and TV shows based on various attributes like genre, release year, duration, cast, and more. By doing so, we can uncover hidden patterns within the content and provide a structured overview of the diverse range of content available on the platform.
 
-# Steps
+# Steps 
 
 **Data Collection**: Gather a comprehensive dataset of Netflix movies and TV shows, including attributes such as title, genre, release year, duration, cast, director, and more.
 
